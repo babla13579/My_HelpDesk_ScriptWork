@@ -1,8 +1,9 @@
 # My_HelpDesk_ScriptWork
-Broken due to me trimming out alot of company specific stuff... I haven't even tried running this after I EXTENSIVELY trimmed it down.
+Script probably wont launch due to me trimming out alot of company specific stuff and me being to lazy to try debugging
+I haven't even tried running this after I EXTENSIVELY trimmed it down.
 Sharing for the overall script template  and  some useful functions if you write custom scriptz
 
-I wrote this script so multiple people can speed up their jobs (IT Helpdesk)
+I wrote this script to share with multiple people to help speed up their jobs (IT Helpdesk)
 I designed the script to have a user customizable config file --- It pulls sensible defaults from a template config file.
 Grouped many of the keyshortcuts to "fall under" a function key... This was inspired by control characters in TMUX and GNU Screen
 
