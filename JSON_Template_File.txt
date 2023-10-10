@@ -1,0 +1,7 @@
+{
+   "homePageUrl": "https://na1vsa40.kaseya.net/liveconnect/",
+   "payload": {
+      "agentId": "__CHANGE_ME__",
+     "navId": "__CHANGE_ME_TOO__"
+    }
+}
