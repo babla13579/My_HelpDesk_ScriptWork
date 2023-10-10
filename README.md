@@ -1,4 +1,7 @@
 # My_HelpDesk_ScriptWork
+
+This Readme file might be easier to read if you download the "RAW" file and open in your prefered editor.
+
 Script probably wont launch due to me trimming out alot of company specific stuff and me being to lazy to try debugging
 I haven't even tried running this after I EXTENSIVELY trimmed it down.
 Sharing for the overall script template  and  some useful functions if you write custom scriptz
